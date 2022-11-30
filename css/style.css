@@ -1,0 +1,58 @@
+header {
+    text-align: center;
+}
+
+nav {
+    background-color: #EEEEEE;
+    height: 60px;
+    text-align: center;
+    padding-top: 0px;
+}
+input {
+    width: 350px;
+    margin: 0px;
+    padding-top: 0px;
+}
+h3 {
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+section {
+        background-color: #f7f7f7;
+        height: 80px;
+        margin-top: 3px;
+}
+
+.box1 {
+        margin-right: 0.25%;
+        width: 37%;
+        height: 80px;
+        background-color: #7EE5DA;
+        float: left;
+        text-align: center;
+}
+
+.box2 {
+    margin-right: 0.25%;
+    width: 20%;
+    height: 80px;
+    background-color: #70CCC2;
+    float: left;
+    text-align: center;
+}
+
+.box3 {
+    margin: 0px;
+    width: 42.5%;
+    height: 80px;
+    background-color: #62B3AA;
+    float: left;
+    text-align: center;
+}
+
+h5 {
+    margin-top: 25px;
+    text-align: center;
+}
